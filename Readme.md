@@ -1,7 +1,7 @@
 # Automate Scraping E-commerce Websites using Machine Learning
 
 ## I. Motivation
-The classic way to scrape a website is to detect where the interesting elements are in the html page and then save the path towards these elements, the variable name, the class id,... to be able to retrive their contents or their characteristics automatically for future times. However, each website has its own path and naming, this way each time you have a new website you need to do it manually the first time. Morever, the same website could be updated and the references you picked up before to reach your elements could change. This is where you need to think about something more general that does not depend on the specificities of the website.
+The classic way to scrape a website is to detect where the interesting elements are in the html page and then save the path towards these elements, the variable name, the class id,... to be able to retrieve their contents or their characteristics automatically for future times. However, each website has its own path and naming, this way each time you have a new website you need to do it manually the first time. Morever, the same website could be updated and the references you picked up before to reach your elements could change. This is where you need to think about something more general that does not depend on the specificities of the website.
 
 In this project, we are intersted in extracting from an E-Commerce websites the product's title, the product's description and the product's price. The steps considered during our work are as follow:
 
